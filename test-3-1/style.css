@@ -1,0 +1,10 @@
+.block {
+    width: 150px;
+    height: 150px;
+    background-color: #ccc; 
+    transition: background-color 0.3s; 
+}
+
+.block.active {
+    background-color: #f00; 
+}
